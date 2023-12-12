@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimkha", "kimkha\kimkha.csproj", "{74F03C22-35E9-445B-954E-C64B33A1315B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F03C22-35E9-445B-954E-C64B33A1315B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F03C22-35E9-445B-954E-C64B33A1315B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F03C22-35E9-445B-954E-C64B33A1315B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F03C22-35E9-445B-954E-C64B33A1315B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF330E01-65A5-4590-B6E8-6BB899A9337C}
+	EndGlobalSection
+EndGlobal
